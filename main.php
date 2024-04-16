@@ -31,6 +31,8 @@ $result = $conn->query($sql);
             border: 1px solid #ccc;
             border-radius: 8px;
             padding: 16px;
+
+            
             margin-bottom: 16px;
         }
     </style>
